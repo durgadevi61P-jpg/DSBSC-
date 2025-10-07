@@ -73,9 +73,8 @@ Output Graph
 <img width="1920" height="1140" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/ce1d1b82-29ed-42d0-803e-3ebf091e553a" />
 
 Tablular Column
+![WhatsApp Image 2025-10-07 at 19 03 15_b4e2b61e](https://github.com/user-attachments/assets/9127dd9a-0957-4672-ae39-2f2ad794f760)
 
-
-![WhatsApp Image 2025-09-02 at 21 55 28_c16fd668](https://github.com/user-attachments/assets/467433d3-aa52-41e9-8cdd-680a6141abac)
 
 Result
 
